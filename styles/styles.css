@@ -174,7 +174,7 @@ footer {
     align-items: center;
     justify-content: center;
     text-decoration: none;
-    transition: bcakground-color 0.3s ease;
+    transition: background-color 0.3s ease;
 }
 
 .social_icon:hover {
